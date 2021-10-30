@@ -1,0 +1,2 @@
+coffee_counter_training/training/faster_rcnn_resnet50_v1_1024x1024_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+coffee_counter_training/training/faster_rcnn_resnet50_v1_1024x1024_coco17_tpu-8/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
