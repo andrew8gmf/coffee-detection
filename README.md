@@ -1,7 +1,7 @@
 <h1 id="title" align="center">Machine learning model to detection and counting of coffee feet (Coffea sp.) by
 video analysis</h1>
 
-**Advisor:** João Ricardo Favan
+**Advisor:** João Ricardo Favan <br />
 **Authors:** <a href="https://github.com/andrew8gmf">Andrew Fernandes</a> and <a href="https://github.com/felipenjonas">Felipe Jonas</a>
 
 <h2 id="abstract">ABSTRACT</h2>
