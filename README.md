@@ -24,7 +24,7 @@ Object detection; Machine learning; Plant count.
     <tr>
         <th>
             <a href="https://www.python.org/">
-            Python
+            Python | PyPI
           </a>
         </th>
     </tr>
@@ -36,10 +36,14 @@ Object detection; Machine learning; Plant count.
 pip install -r requirements.txt
 ```
 
-<h2 id="how-to-run">How to run</h2>
+<h2 id="usage">Usage</h2>
 
 ```sh
-python tensorflow_cumulative_object_counting.py
+python tensorflow_cumulative_object_counting.py --model=Model Path --labelmap=Path to Labelmap --video_path=Path to video
+```
+
+```sh
+python tensorflow_cumulative_object_counting.py --model=inference_graph/saved_model --labelmap=coffee_counter_training/training/labelmap.pbtxt --video_path=input_videos/coffee_plantation.mp4
 ```
 
 <h2 id="how-to-contribute">How to contribute</h2>
